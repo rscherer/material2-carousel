@@ -26,7 +26,7 @@ import { AppComponent } from './app.component';
     MatButtonModule,
     MatCardModule,
     MatCheckboxModule,
-    MatCarouselModule.forRoot(),
+    MatCarouselModule,
     MatExpansionModule,
     MatIconModule,
     MatInputModule,
