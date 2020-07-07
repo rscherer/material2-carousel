@@ -6,6 +6,8 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatCarouselComponent } from './carousel.component';
 import { MatCarouselSlideComponent } from './carousel-slide/carousel-slide.component';
 
+import 'hammerjs';
+
 @NgModule({
   declarations: [MatCarouselComponent, MatCarouselSlideComponent],
   imports: [CommonModule, MatButtonModule, MatIconModule],
