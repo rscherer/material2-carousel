@@ -97,8 +97,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Angular CLI files.
 - Demo application project.
 
-[0.7.1]: https://github.com/gabrielbusarello/material2-carousel/compare/v0.7.0...v0.7.1
-[0.7.0]: https://github.com/gbrlsnchs/material2-carousel/compare/master...gabrielbusarello:v0.7.0
+[0.7.1]: https://github.com/rscherer/material2-carousel/compare/v0.7.0...v0.7.1
+[0.7.0]: https://github.com/gbrlsnchs/material2-carousel/compare/master...rscherer:v0.7.0
 [0.6.0]: https://github.com/gbrlsnchs/material2-carousel/compare/v0.5.1...v0.6.0
 [0.5.1]: https://github.com/gbrlsnchs/material2-carousel/compare/v0.5.0...v0.5.1
 [0.5.0]: https://github.com/gbrlsnchs/material2-carousel/compare/v0.4.0...v0.5.0
